@@ -12,3 +12,4 @@ This is a project on **System engineering and Devops** as a Full Stack Engineer 
 | Project name | Description |
 | ------------ | ----------- |
 | [`0x00-shell_basics`](https://github.com/rise-code-sleep/alx-system_engineering-devops/tree/master/0x00-shell_basics) | The aim of this project is to learn about basics commands, navigation, files and directories in **Shell**. |
+| [`0x01-shell_permissions`](https://github.com/rise-code-sleep/alx-system_engineering-devops/tree/master/0x01-shell_permissions) | This project looks into man pages, permissions (owner, group and other) of files and directories in **Shell**. |
