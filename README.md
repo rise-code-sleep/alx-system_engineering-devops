@@ -1,11 +1,11 @@
 # System engineering & Devops
 
-This is a project on **System engineering and Devops** as a Full Stack Engineer at **ALX**.
+Projects on **System engineering and Devops** as a Full Stack Engineer at **ALX**.
 
 ## Technologies
-* Tested on Ubuntu 20.04 LTS
+* Ubuntu 20.04 LTS - testing the scripts
 * Vi/Vim editor
-* Scripts written in Bash 5.0.17(1)
+* Bash 5.0.17(1)
 
 ## Projects
 
